@@ -1,0 +1,169 @@
+Field IDs
+
+
+/***************************************
+Fields:
+
+Email Address
+field45865550
+
+**Insurance Type
+Work Comp
+field45865551_1
+
+Group Health
+field45865551_2
+
+PCP
+field45865551_3
+
+PIP
+field45865551_4
+
+PL
+field45865551_5
+
+INSURANCE
+
+Company Address
+
+Address Line 1
+field45865565-address
+
+Address Line 2
+field45865565-address2
+
+City 
+field45865565-city
+
+State
+field45865565-state
+
+ZIP Code
+field45865565-zip
+
+** Patient
+
+First Name
+field45865574-first
+
+Initial (optional)
+field45865574-initial
+
+Last Name
+field45865574-last
+
+Patient Primary Phone Number
+field45865575
+
+Patient Secondary Phone Number
+field45865576
+
+Address Line 1
+field45865578-address
+
+Address Line 2
+field45865578-address2
+
+City
+field45865578-city
+
+State
+field45865578-state
+
+ZIP Code
+field45865578-zip
+
+*Patient DOB
+
+Month
+field45865580M
+
+Day
+field45865580D
+
+Year
+field45865580Y
+
+Patient Gender
+(skipping)
+
+Male
+
+Female
+
+Employer Name
+field45865584
+
+Procedure
+
+Exam 1
+field45865589
+
+Modality 1
+field45865590
+
+Contrast Question Exam 1
+
+without contrast
+field45865591_1
+
+with contrast
+field45865591_2
+
+with & without contrast
+field45865591_3
+
+Exam 2
+field45865595
+
+Modality 2
+field45865596
+
+Contrast Question Exam 2
+
+without contrast
+field45865597_1
+
+with contrast
+field45865597_2
+
+with & without contrast
+field45865597_3
+
+Additional procedures or special instructions
+field45865603
+
+Physician
+
+Physician Name
+
+
+First Name
+field45865607-first
+
+Last Name
+field45865607-last
+
+Physician Phone Number
+field45865608
+
+Physician Fax Number
+field45865609
+
+Physician Address
+
+Address Line 1
+field45865610-address
+
+Address Line 2
+field45865610-address2
+
+City
+field45865610-city
+
+State
+field45865610-state
+
+ZIP Code
+field45865610-zip
