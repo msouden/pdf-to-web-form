@@ -1,20 +1,4 @@
 
-sample test URL:
-
-Multiple options on a checkbox field can be populated by separating each option 
-with a new line, which is encoded in the URL string as "%0A” similar to the date
-
-
-(?<=Physician Information:.*Email:\n)(.*?)(?=.*Adjuster Information:)|$
-
-pyinstaller --onefile --icon=msq.ico  autoMSQ.spec
-
-in spec file/datas maybe?:
-
-('drag.bat', '.')
-
-------
-
 Notes on use:
 
 Attached is a utility I made to help speed up intake on Awarded referrals.
